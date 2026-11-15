@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TapCore VN</string>
+    <string name="tab_play">Chơi</string>
+    <string name="tab_point_shop">Shop Điểm</string>
+    <string name="tab_cash_shop">$Shop$</string>
+    <string name="tab_restarts">Restarts</string>
+
+    <string name="stats_title">STATS • CHỈ SỐ HIỆN TẠI</string>
+    <string name="stats_points_label">Điểm hiện tại</string>
+    <string name="stats_dollars_label">Tiền $</string>
+    <string name="stats_multiplier_label">Hệ số nhân</string>
+    <string name="stats_per_click_label">Điểm / click</string>
+    <string name="stats_total_clicks_label">Tổng lượt click</string>
+    <string name="stats_cooldown_label">Hồi chiêu / click</string>
+
+    <string name="tap_core_title">LÕI NĂNG LƯỢNG</string>
+    <string name="tap_core_ready">CHẠM ĐỂ TÍCH ĐIỂM</string>
+    <string name="tap_core_cooldown">ĐANG HỒI CHIÊU…</string>
+    <string name="tap_core_button_cd">Chạm lõi năng lượng để nhận điểm</string>
+    <string name="auto_status_locked">Auto Click chưa mở khóa (mua tại $Shop$)</string>
+    <string name="auto_status_active">Auto Click đang bật</string>
+    <string name="auto_status_paused">Auto Click đang tạm dừng</string>
+    <string name="auto_toggle_cd">Bật hoặc tạm dừng Auto Click</string>
+
+    <string name="point_shop_header">CỬA HÀNG ĐIỂM</string>
+    <string name="point_shop_subtitle">Dùng điểm tích lũy để nâng cấp sức mạnh chạm</string>
+    <string name="discount_active_badge">Đang giảm giá ÷%.2f</string>
+    <string name="buy_button">Mua</string>
+    <string name="need_more_points">Thiếu %s điểm</string>
+
+    <string name="cash_shop_header">QUY ĐỔI &amp; $SHOP$</string>
+    <string name="exchange_section_title">Đổi Điểm sang Tiền $</string>
+    <string name="exchange_rate_hint">Tỷ giá: 1.000 điểm = $1</string>
+    <string name="exchange_1000_btn">Đổi 1.000 điểm → $1</string>
+    <string name="exchange_all_btn">Đổi toàn bộ điểm sang $</string>
+    <string name="cash_shop_section_title">Đặc quyền $Shop$</string>
+    <string name="purchased_badge">Đã sở hữu</string>
+    <string name="open_auto_upgrade_btn">Mở bảng nâng cấp</string>
+
+    <string name="auto_upgrade_sheet_title">Nâng cấp Auto Click</string>
+    <string name="auto_upgrade_locked_hint">Bạn cần mua Auto Click ($25) trong $Shop$ trước khi nâng cấp.</string>
+
+    <string name="restart_header">TÁI SINH • RESTARTS</string>
+    <string name="restart_subtitle">Đặt lại vòng chơi để tăng vĩnh viễn hệ số nhân khởi điểm</string>
+    <string name="restart_action_btn">Thực hiện Restarts</string>
+    <string name="restart_confirm_title">Xác nhận Restarts?</string>
+    <string name="restart_confirm_body">Toàn bộ điểm, tiền $, cấp độ cửa hàng và Auto Click hiện tại sẽ được đặt lại. Đổi lại, hệ số nhân khởi điểm tăng vĩnh viễn từ %1$sx lên %2$sx.</string>
+    <string name="confirm_action">Xác nhận</string>
+    <string name="cancel_action">Hủy</string>
+
+    <string name="combo_hint_idle">Chạm liên tiếp để kích hoạt Click Combo</string>
+    <string name="combo_best_label">Kỷ lục: %d</string>
+</resources>

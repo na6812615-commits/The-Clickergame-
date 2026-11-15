@@ -1,0 +1,6 @@
+{
+  "name": "TapCore VN",
+  "description": "Neon Arcade incremental clicker game with Point Shop, Cash Shop, Auto-Click upgrades, Prestige Restarts, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
